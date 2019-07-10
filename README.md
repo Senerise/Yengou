@@ -1,6 +1,7 @@
 ## Yo !
 
 Ici, vous trouverez tous les liens utiles pour le projet 😊.
+Ceci n'est qu'une ébauche et sera amenée à évoluer.
 
 ### Gestion de projet
 
