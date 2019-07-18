@@ -16,4 +16,5 @@ Drives : [Google Drive](https://drive.google.com/folderview?id=1FdrSYsgBDBHzcB3S
 ### Rapports
 
 ### Contact
+[Yengou team] : yengoucafe@gmail.com
 [Charlotte] : amandiers-animation@cljt.com
